@@ -1,0 +1,18 @@
+# Compilação
+bin/
+*.class
+
+# Arquivos de IDEs
+*.iml
+.idea/
+*.log
+
+# Dependências (caso use Maven ou Gradle)
+target/
+out/
+*.jar
+*.war
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
