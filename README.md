@@ -41,8 +41,11 @@ java -cp out/ folha_pagamento.Main
 ## Exemplo de Saída
 ```
 Nome: João - Cargo: Desenvolvedor - Salário Final: R$ 6506.50
+Nome: Marcelo - Cargo: Desenvolvedor - Salário Final: R$ 3740.00
 Nome: Maria - Cargo: Gerente - Salário Final: R$ 15408.00
-Total da Folha de Pagamento: R$ 35000.00
+Nome: José - Cargo: Estagiario - Salário Final: R$ 1363.64
+Nome: Ana - Cargo: Estagiario - Salário Final: R$ 1200.00
+Total da Folha de Pagamento: R$ 28218.14
 ```
 
 ## Melhorias Futuras
